@@ -1,0 +1,6 @@
+Brief introduction about myself
+---------------------------------
+
+My name is Gloria Adepa Adu-Twum. I am an enthusiastic learner who enjoys exploring new ideas and working on creative projects. I love learning how to use technology to make life easier and more interesting.
+
+This is my very first repository on GitHub, and I’m excited to begin my journey into coding and project management. I look forward to learning more about collaboration, commits, and building amazing things!
